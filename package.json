@@ -5,8 +5,8 @@
   "description": "Auto recompile the editor without the need to ALT+TAB back into the Unity.",
   "unity": "2020.3",
   "unityRelease": "10f1",
-  "documentationUrl": "https://github.com/ParkingLotGames/unity-background-recompiler",
-  "changelogUrl": "https://github.com/ParkingLotGames/unity-background-recompiler/releases",
+  "documentationUrl": "https://github.com/ParkingLotGames/unity-background-recompiler/blob/main/Documentation.pdf",
+  "changelogUrl": "https://github.com/ParkingLotGames/unity-background-recompiler/blob/main/CHANGELOG",
   "licensesUrl": "https://github.com/ParkingLotGames/unity-background-recompiler/blob/main/LICENSE",
   "keywords": [
     "scripting",
